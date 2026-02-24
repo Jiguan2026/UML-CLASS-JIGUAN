@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<registroVuelos>
+    <vuelo>
+        <codigo>TAG101</codigo>
+        <origen>Guatemala City</origen>
+        <destino>Flores, Petén</destino>
+        <duracion>1</duracion>
+        <aerolinea>Tag Airlines</aerolinea>
+    </vuelo>
+    <vuelo>
+        <codigo>AV202</codigo>
+        <origen>Guatemala City</origen>
+        <destino>Bogotá</destino>
+        <duracion>3</duracion>
+        <aerolinea>Avianca</aerolinea>
+    </vuelo>
+    <vuelo>
+        <codigo>COPA505</codigo>
+        <origen>Guatemala City</origen>
+        <destino>Panamá</destino>
+        <duracion>2</duracion>
+        <aerolinea>Copa Airlines</aerolinea>
+    </vuelo>
+</registroVuelos>

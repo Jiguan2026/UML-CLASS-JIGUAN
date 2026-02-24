@@ -1,0 +1,4 @@
+--- REPORTE ACTUALIZADO DE VUELOS ---
+[TAG101] | Tag Airlines | Guatemala City -> Flores, Petén (1h)
+[AV202] | Avianca | Guatemala City -> Bogotá (3h)
+[COPA505] | Copa Airlines | Guatemala City -> Panamá (2h)
